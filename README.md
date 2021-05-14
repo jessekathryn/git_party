@@ -2,7 +2,7 @@
 Public Repo for WWCode Event! 
 
 # step 1 
-Clone me!
+Fork/Clone me!
 
 # step 2
 Join the meet-up event https://www.meetup.com/WomenWhoCodeNYC/events/278095956/
