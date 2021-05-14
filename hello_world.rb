@@ -1,6 +1,3 @@
-# git_party
-Public Repo for WWCode Event! 
-
 # step 1 
 Clone me!
 
@@ -27,7 +24,7 @@ Rebase!
 - check 'git log'
 - find the commits on your branch
 - exit CLI by pressing 'esc' or 'q'
-- write 'git rebase -i HEAD~#of commits (2 in this case)
+- write 'git rebase -i HEAD~#of commits (2 in this case)'
 
 # step 9
 Squash your commits into one
