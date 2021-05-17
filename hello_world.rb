@@ -11,9 +11,11 @@ Checkout a branch "my-branch"
 Make a Change
 
 # step 5
+Git add . your change!
 Commit your changes!
 
 # step 6
+Git add . your change!
 Make another change!
 
 # step 7
