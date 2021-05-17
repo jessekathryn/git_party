@@ -17,8 +17,10 @@ Commit your changes!
 # step 6
 Git add . your change!
 Make another change!
+Git push origin main --force
 
-# step 7
+# step 7 (If you want!)
+Git add . your change!
 Commit again!
 
 # step 8 
