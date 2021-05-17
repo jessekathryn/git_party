@@ -1,20 +1,31 @@
-# step 1 
-Clone me!
-
-# step 2
+# step 1
 Join the meet-up event https://www.meetup.com/WomenWhoCodeNYC/events/278095956/
 
+# step 2
+Fork me!
+Clone me!
+CD into me!
+
 # step 3
-Checkout a branch "my-branch"
+Checkout a branch "my-branch-name"
 
 # step 4
-Make a Change
+Code . or open per your default way!
+Make a Change!
 
 # step 5
+git add .
+git status
+git commit -m "Your Initials"
 Commit your changes!
+Git push origin main --force
 
 # step 6
-Make another change!
+git add .
+git status
+git commit -m "Your Initials"
+Commit your changes!
+Git push origin main --force
 
 # step 7
 Commit again!
@@ -42,7 +53,7 @@ Reset --hard
 - write 'git reset --hard'
 - check 'git log'
 
-# step 11
+# step 11 (in the real world !)
 - 'git push origin --force'
 - create a pr and check out your commit!
 
