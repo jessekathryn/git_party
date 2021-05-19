@@ -16,22 +16,24 @@ Make a Change
 Git status
 Git add .
 Git commit -m "First Commit"
+git push origin main --force
 Git log
 
 # step 5
-Git status
+Make a Second Change
 Git status
 Git add .
+Git status
+
+#step 6
 Git commit -m "Squash me!"
-Git push origin master --force
+Git status
 Git log
 
-
-# step 6
-Make another change!
-
 # step 7
-Commit again!
+Git commit -m "Squash me!"
+Git push origin main --force
+Git log
 
 # step 8 
 Rebase! 
