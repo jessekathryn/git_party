@@ -1,17 +1,31 @@
 # step 1 
-Clone me!
+Join the meet-up event https://www.meetup.com/WomenWhoCodeNYC/events/278095956/
 
 # step 2
-Join the meet-up event https://www.meetup.com/WomenWhoCodeNYC/events/278095956/
+Fork me!
+Clone me!
+CD into git_party
 
 # step 3
 Checkout a branch "my-branch"
+Git Status
+Git Log
 
 # step 4
 Make a Change
+Git status
+Git add .
+Git commit -m "First Commit"
+Git log
 
 # step 5
-Commit your changes!
+Git status
+Git status
+Git add .
+Git commit -m "Squash me!"
+Git push origin master --force
+Git log
+
 
 # step 6
 Make another change!
