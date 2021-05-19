@@ -25,7 +25,7 @@ Git status
 Git add .
 Git status
 
-#step 6
+# step 6
 Git commit -m "Squash me!"
 Git status
 Git log
